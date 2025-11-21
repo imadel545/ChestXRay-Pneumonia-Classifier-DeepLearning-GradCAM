@@ -1,0 +1,52 @@
+# =============================
+# Environnements Python / caches
+# =============================
+venv/
+.venv/
+env/
+env.*/
+ENV/
+__pycache__/
+*.py[cod]
+
+# =============================
+# OS / IDE
+# =============================
+.DS_Store
+.idea/
+.vscode/
+
+# =============================
+# Streamlit & secrets
+# =============================
+.streamlit/
+.streamlit/secrets.toml
+
+# =============================
+# Logs / artefacts lourds
+# =============================
+*.log
+*.ckpt
+*.tmp
+
+# =============================
+# Modèles
+# =============================
+*.h5
+*.hdf5
+*.pb
+
+!streamlit/model/pneumonia_classifier.h5
+
+# =============================
+# Jupyter
+# =============================
+.ipynb_checkpoints/
+
+# =============================
+# Données locales (datasets)
+# =============================
+data/
+datasets/
+*/data/
+*/datasets/
