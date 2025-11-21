@@ -190,6 +190,7 @@ Usage académique uniquement.
 12. 👤 Auteur & contact
 
 Projet développé par Imad Eljeddaoui
+imadeljeddaoui545@gmail.com
 Étudiant ingénieur informatique EMSI — option MIAGE&UNICA — M2/MBDS, Développement & DL/IA.
 Passionné par la vision médicale, le deep learning et l’innovation IA.
 
